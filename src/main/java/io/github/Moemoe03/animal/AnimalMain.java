@@ -7,7 +7,9 @@ public class AnimalMain {
          Bird bird = new Bird();
          Dog dog = new Dog();
          bird.fly();
+         bird.eat();
          dog.run();
+         dog.eat();
 	}
 
 }
